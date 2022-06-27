@@ -22,4 +22,7 @@ WHEN I choose to update an employee role
 THEN I am prompted to select an employee to update and their new role and this information is updated in the database
 
 # screenshot 
-![screentshot](./employeetracker.png "screenshot")
+![screenshot](./employeetracker.png "screenshot")
+
+# Youtube Link
+https://www.youtube.com/watch?v=7Gg5x8C9ouc
