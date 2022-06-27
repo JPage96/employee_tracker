@@ -10,7 +10,7 @@
       "type": "git",
       "url": "git+git@github.com:JPage96/employee_tracker.git"
     },
-    "homepage": "",
+    "homepage": "https://github.com/JPage96/employee_tracker/blob/main/README.md",
     "dependencies": {
       "console.table": "^0.10.0",
       "inquirer": "^7.3.3",
